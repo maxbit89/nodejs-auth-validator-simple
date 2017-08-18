@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-auth-validator-simple",
+  "version": "1.0.0",
+  "description": "Simple Validator class for nodejs-auth",
+  "main": "auth-simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbit89/nodejs-auth-validator-simple.git"
+  },
+  "keywords": [
+    "auth",
+    "login"
+  ],
+  "author": "Maxbit89 <maxbit89@gmail.com> (http://about:blank)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/maxbit89/nodejs-auth-validator-simple/issues"
+  },
+  "homepage": "https://github.com/maxbit89/nodejs-auth-validator-simple#readme"
+}
